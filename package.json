@@ -1,0 +1,30 @@
+{
+  "name": "godaddy-api",
+  "version": "1.0.0",
+  "description": "GoDaddy API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claude-abounegm/godaddy-api.git"
+  },
+  "keywords": [
+    "godaddy",
+    "api",
+    "nodejs"
+  ],
+  "author": "Claude Abounegm <claude.abounegm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claude-abounegm/godaddy-api/issues"
+  },
+  "homepage": "https://github.com/claude-abounegm/godaddy-api#readme",
+  "dependencies": {
+    "ipify": "^5.0.0",
+    "lodash": "^4.17.20",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
